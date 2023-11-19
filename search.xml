@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<VOTABLE version="1.4" xmlns="http://www.ivoa.net/xml/VOTable/v1.3">
+<INFO name="QUERY_STATUS" value="OK"/>
+<RESOURCE>
+<TABLE name="example2.csv">
+<FIELD ID="obj_ID" name="Project object ID" datatype="int" unit=""/>
+<FIELD ID="tempearture" name="Tempearture of Object" datatype="double" unit="keV"/>
+<FIELD ID="RA_deg" name="Right Ascension in degrees" datatype="double" ucd="POS_EQ_RA_MAIN" unit="deg"/>
+<FIELD ID="DEC_deg" name="Declination in degrees" datatype="double" ucd="POS_EQ_DEC_MAIN" unit="deg"/>
+<FIELD ID="redshift" name="Redshift" datatype="double" unit=""/>
+<FIELD ID="name" name="Object name" datatype="char" arraysize="*" ucd="ID_MAIN" unit=""/>
+<DATA>
+<TABLEDATA>
+<TR>
+<TD>100</TD><TD>2.391</TD><TD>6.3737</TD><TD>-12.37608</TD><TD>0.143</TD><TD>Object1</TD>
+</TR>
+<TR>
+<TD>100</TD><TD>4.006</TD><TD>6.3737</TD><TD>-12.37608</TD><TD>0.143</TD><TD>Object1</TD>
+</TR>
+<TR>
+<TD>100</TD><TD>5.439</TD><TD>6.3737</TD><TD>-12.37608</TD><TD>0.143</TD><TD>Object1</TD>
+</TR>
+</TABLEDATA>
+</DATA>
+</TABLE>
+</RESOURCE>
+</VOTABLE>

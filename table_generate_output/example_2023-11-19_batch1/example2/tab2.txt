@@ -1,0 +1,29 @@
+Title: Tools and Guide for Publishing Medium Sized Astronomical Catalogs to the Virtual Observatory
+Authors: C.F.K. Farah
+Table: Example 2
+================================================================================
+Byte-by-byte Description of file: example2.dat
+--------------------------------------------------------------------------------
+ Bytes Format Units  Label     Explanations
+--------------------------------------------------------------------------------
+ 1- 3  I3     --     obj_ID      [100/103] Project object ID       
+ 5-10  F6.3   keV    tempearture [2.39/36.75] Tempearture of Object
+12-20  F9.5   deg    RA_deg      Right Ascension in degrees        
+22-30  F9.5   deg    DEC_deg     Declination in degrees            
+32-36  F5.3   --     redshift    [0.08/0.25] Redshift              
+38-44  A7     --     name        Object name                       
+--------------------------------------------------------------------------------
+Notes:
+--------------------------------------------------------------------------------
+100  2.391   6.37370 -12.37608 0.143 Object1
+100  4.006   6.37370 -12.37608 0.143 Object1
+100  5.439   6.37370 -12.37608 0.143 Object1
+101  5.221  39.36524 -26.50799 0.165 Object2
+101  5.221  39.36524 -26.50799 0.165 Object2
+101  5.289  39.36524 -26.50799 0.165 Object2
+102 36.742  55.71388 -53.62965 0.241 Object3
+102 18.371  55.71388 -53.62965 0.241 Object3
+102 15.400  55.71388 -53.62965 0.241 Object3
+103 10.714 223.63139  18.64452 0.087 Object4
+103 11.200 223.63139  18.64452 0.087 Object4
+103 16.630 223.63139  18.64452 0.087 Object4

@@ -1,0 +1,15 @@
+obj_ID,tempearture,RA_deg,DEC_deg,redshift,name
+--,keV,degree,degree,--,--
+Project object ID,Tempearture of Object,Right Ascension in degrees,Declination in degrees,Redshift,Object name
+100,2.391,6.3737,-12.37608,0.143,Object1
+100,4.006,6.3737,-12.37608,0.143,Object1
+100,5.439,6.3737,-12.37608,0.143,Object1
+101,5.221,39.36524,-26.50799,0.165,Object2
+101,5.221,39.36524,-26.50799,0.165,Object2
+101,5.289,39.36524,-26.50799,0.165,Object2
+102,36.742,55.71388,-53.62965,0.241,Object3
+102,18.371,55.71388,-53.62965,0.241,Object3
+102,15.4,55.71388,-53.62965,0.241,Object3
+103,10.714,223.63139,18.64452,0.087,Object4
+103,11.2,223.63139,18.64452,0.087,Object4
+103,16.63,223.63139,18.64452,0.087,Object4
