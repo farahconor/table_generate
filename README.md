@@ -18,11 +18,12 @@ First, install this repository to your local machine. This can be done by clonin
 
 Next, place the table files you want to convert into the "data" folder. The table files must follow a specific format to work correctly:
 - The file should be a csv file.
-- The first row should the name of each column. For optimal usage follow: https://vizier.cds.unistra.fr/vizier/doc/catstd-3.3.htx
-- The second row should be the units of each column. For optimal usage follow: https://vizier.cds.unistra.fr/vizier/doc/catstd-3.2.htx
+- The first row should the name of each column. For optimal name conventions follow: https://vizier.cds.unistra.fr/vizier/doc/catstd-3.3.htx
+- The second row should be the units of each column. For optimal unit conventions follow: https://vizier.cds.unistra.fr/vizier/doc/catstd-3.2.htx
 - The third row should be a description of the column
 - All subsequent rows should be data. (A common error occurs if the last line of the csv exists but is blank, make sure you delete any empty lines.)
 - One column must contain a right ascension in decimal degrees, one column must contain a declination in decimal degrees
+- One column must be classified as the "main column" and it must be the string datatype
 
 Once all tables have been placed create a new configuration ini file or create a copy of the example ini file. The modify it, open it with any text editor. The configuration file must follow the following format:
 
