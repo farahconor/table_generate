@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="#introduction">Introduction</a> •
-  <a href="#setup-&-usage">Setup & Usage</a>
+  <a href="#setup--usage">Setup & Usage</a>
 </p>
 
 ## Introduction
