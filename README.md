@@ -7,7 +7,8 @@
 
 <p align="center">
   <a href="#introduction">Introduction</a> •
-  <a href="#setup--usage">Setup & Usage</a>
+  <a href="#setup--usage">Setup & Usage</a> •
+  <a href="#example">Example</a>
 </p>
 
 ## Introduction
@@ -45,3 +46,11 @@ DEC_column = <b>Zero-based index of DEC column</b>
 By replacing all the **bold** fields above, the configuration file should be properly setup. See ```example_config.ini``` for an example.
 
 After the configuration file is completed, run ```table_generate.py```. You will be prompted to pick a configuration file, simply pick the one you created. Once the script has finished running you should find a new folder under ```table_generate_output``` following the format ```DATE_batchNUMBER```
+
+## Example
+
+An example data set, output batch, config file, and conesearch script output are also provided.
+- Example data set: ```example1.csv``` and ```example2.csv``` under ```data```
+- Example output batch: ```example_2023-11-19_batch1``` under ```table_generate_output```
+- Example config file: ```example_config.ini`` under ```config```
+- Example conesearch script output: ```example_search.xml``` generated with ```.../example_2023-11-19_batch1/example2/search.php?RA=6&DEC=-12&SR=1```
