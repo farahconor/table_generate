@@ -13,6 +13,8 @@
 
 ## Introduction
 
+[A full length tutorial is available in the form of a PDF](https://github.com/farahconor/table_generate/blob/main/Tools%20and%20Guide%20for%20Publishing%20Medium%20Sized%20Astronomical%20Catalogs%20to%20the%20Virtual%20Observatory%202023%2012%2004%20.pdf)
+
 ## Setup & Usage
 
 First, install this repository to your local machine. This can be done by cloning repository with git or by downloading it as a zip file under "<> Code" -> "Download ZIP", if done this way, you will also need to unzip the file.
@@ -45,7 +47,7 @@ DEC_column = <b>Zero-based index of DEC column</b>
 
 By replacing all the **bold** fields above, the configuration file should be properly setup. See ```example_config.ini``` for an example.
 
-After the configuration file is completed, run ```table_generate.py```. You will be prompted to pick a configuration file, simply pick the one you created. Once the script has finished running you should find a new folder under ```table_generate_output``` following the format ```DATE_batchNUMBER```
+After the configuration file is completed, run ```table_generate_windows.exe``` or ```table_generate_mac```. You will be prompted to pick a configuration file, simply pick the one you created. Once the script has finished running you should find a new folder under ```table_generate_output``` following the format ```DATE_batchNUMBER```
 
 ## Example
 
