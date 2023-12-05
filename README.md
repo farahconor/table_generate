@@ -13,7 +13,7 @@
 
 ## Introduction
 
-[A full length tutorial is available in the form of a PDF](https://github.com/farahconor/table_generate/blob/main/Tools%20and%20Guide%20for%20Publishing%20Medium%20Sized%20Astronomical%20Catalogs%20to%20the%20Virtual%20Observatory%202023%2012%2004%20.pdf)
+[A full length tutorial is available in the form of a PDF](https://github.com/farahconor/table_generate/blob/main/Tools%20and%20Guide%20for%20Publishing%20Medium%20Sized%20Astronomical%20Catalogs%20to%20the%20Virtual%20Observatory%202023%2012%204.pdf)
 
 ## Setup & Usage
 
