@@ -1,6 +1,6 @@
-obj_ID,tempearture,RA_deg,DEC_deg,redshift,name
+obj_ID,temperature,RA_deg,DEC_deg,redshift,name
 --,keV,degree,degree,--,--
-Project object ID,Tempearture of Object,Right Ascension in degrees,Declination in degrees,Redshift,Object name
+Project object ID,Temperature of Object,Right Ascension in degrees,Declination in degrees,Redshift,Object name
 100,2.391,6.3737,-12.37608,0.143,Object1
 100,4.006,6.3737,-12.37608,0.143,Object1
 100,5.439,6.3737,-12.37608,0.143,Object1
