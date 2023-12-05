@@ -52,5 +52,5 @@ After the configuration file is completed, run ```table_generate.py```. You will
 An example data set, output batch, config file, and conesearch script output are also provided.
 - Example data set: ```example1.csv``` and ```example2.csv``` under ```data```
 - Example output batch: ```example_2023-11-19_batch1``` under ```table_generate_output```
-- Example config file: ```example_config.ini`` under ```config```
+- Example config file: ```example_config.ini``` under ```config```
 - Example conesearch script output: ```example_search.xml``` generated with ```.../example_2023-11-19_batch1/example2/search.php?RA=6&DEC=-12&SR=1```
